@@ -6,6 +6,7 @@ public class Character : MonoBehaviour
 {
 
     public CharacterStat Strength;
+    
 
 
     
